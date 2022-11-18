@@ -1,2 +1,10 @@
-# Portafolio-web
-Este es mi portafolio web
+
+## Descripción 💼
+
+   Este es mi Portafolio Web
+ 
+## Autor-
+   Crhistian Andres Rondon Bermudez
+
+## Ver ejemplo en vivo 
+    https://cristianbz12.github.io/Portafolio-web/
